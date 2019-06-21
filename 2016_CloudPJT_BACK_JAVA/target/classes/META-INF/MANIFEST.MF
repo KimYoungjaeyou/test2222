@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 Implementation-Title: 2016_CloudPJT_BACK_JAVA
 Implementation-Version: 0.0.1-SNAPSHOT
-Build-Jdk-Spec: 1.8
+Built-By: 09254
+Implementation-Vendor-Id: com.skcc
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/2016_CloudPJT_BACK_JAVA
 Created-By: Maven Integration for Eclipse
 

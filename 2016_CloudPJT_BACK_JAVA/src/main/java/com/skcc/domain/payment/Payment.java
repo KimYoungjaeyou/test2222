@@ -5,6 +5,7 @@ import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
+import javax.persistence.Id;
 
 import lombok.Data;
 
@@ -12,6 +13,7 @@ import lombok.Data;
 @Data
 public class Payment {
 
+	@Id
 	private String payment_id;
 	
 	private String book_id;
